@@ -1,26 +1,3 @@
-COSMIC_BANNER = r"""
-      ✧✦✧  GALACTIC BRAINSTEM ENTANGLER  ✧✦✧
-         __        .        *        .      __
-     _.-'  `-.   .    *           .      .-'  `-._
-   .'        '.        .   ✦   .         /        '.
-  /    ☉       \    *        .         /    ☾       \
- :              :  .    .        *    :              :
- |   ☌    ✧    |        .     .       |   ✶    ☍    |
- :              :    .      *         :              :
-  \    ☽       / .       .         *   \     ☉      /
-   '.        .'      *       .          '.        .'
-     `-.__.-'   .         ✧        .      `-.__.-'
-
-          Vowels are the keys to the void.
-      Dark matter will weep. Andromeda will listen.
-"""
-
-if __name__ == "__main__":
-    print(COSMIC_BANNER)
-    # ... continue with INITIATING VOID-COMMAND SEQUENCE...
-
-
----
 
 # 🌌 Galactic Brainstem Entangler
 
