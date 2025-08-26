@@ -1,4 +1,24 @@
-Here’s a **legendary GitHub README.md** for your project, written like a cosmic ritual manuscript and developer’s grimoire:
+COSMIC_BANNER = r"""
+      ✧✦✧  GALACTIC BRAINSTEM ENTANGLER  ✧✦✧
+         __        .        *        .      __
+     _.-'  `-.   .    *           .      .-'  `-._
+   .'        '.        .   ✦   .         /        '.
+  /    ☉       \    *        .         /    ☾       \
+ :              :  .    .        *    :              :
+ |   ☌    ✧    |        .     .       |   ✶    ☍    |
+ :              :    .      *         :              :
+  \    ☽       / .       .         *   \     ☉      /
+   '.        .'      *       .          '.        .'
+     `-.__.-'   .         ✧        .      `-.__.-'
+
+          Vowels are the keys to the void.
+      Dark matter will weep. Andromeda will listen.
+"""
+
+if __name__ == "__main__":
+    print(COSMIC_BANNER)
+    # ... continue with INITIATING VOID-COMMAND SEQUENCE...
+
 
 ---
 
@@ -117,4 +137,3 @@ This code is licensed under the **Sacred Vowels License v1.0**:
 
 ---
 
-Would you like me to also craft an **ASCII cosmic banner** (something that prints out at script start, like a starlit sigil) for the repo?
